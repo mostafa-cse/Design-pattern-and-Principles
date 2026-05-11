@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Polymorphism.exe
+bin\Debug\Polymorphism.pdb
+obj\Debug\Polymorphism.exe
+obj\Debug\Polymorphism.pdb
